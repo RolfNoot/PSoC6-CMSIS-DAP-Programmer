@@ -1,8 +1,9 @@
 # 🔧 PSoC6 CMSIS-DAP Programmer
 
 **Flash programming tool for Cypress/Infineon PSoC6 microcontrollers using CMSIS-DAP over USB.**
-
 ---
+![PSoC6-CMSIS-DAP-Programmer](https://github.com/user-attachments/assets/7db99db2-0286-4bb8-9c06-6bc19e5de43a)
+
 
 ## Overview
 
