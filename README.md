@@ -61,6 +61,6 @@ See [LICENSE](LICENSE) for details.
 ## 📚 References
 
 - [CMSIS-DAP Specification (ARM)](https://arm-software.github.io/CMSIS_5/DAP/html/index.html)
-- [Infineon PSoC 6 Programming Specification 002-15554 Rev. *O] (https://www.infineon.com/dgdl/Infineon-PSoC_6_Programming_Specifications-Programming%20Specifications-v12_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0f66d9bf5627)
+- [Infineon PSoC 6 Programming Specification 002-15554 Rev. *O](https://www.infineon.com/dgdl/Infineon-PSoC_6_Programming_Specifications-Programming%20Specifications-v12_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0f66d9bf5627)
 
 Keywords: psoc6 cmsis-dap psoc-programmer firmware-flashing arm-cortex elf-parser hex-file secure-boot daplink hidsharp swd jtag srom-api infineon cypress usb-debug winforms dotnet psoc6-able2 psoc6-2m psoc6-512k psoc6-256k
